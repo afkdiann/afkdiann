@@ -21,23 +21,20 @@
 
 <br>
 
-</div>
-  🛠 My Tech Stack:<br>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=afkdiann&layout=donut&langs_count=5&theme=dracula&hide_border=true"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=afkdiann&layout=donut&langs_count=5&theme=dracula&hide_border=true" width="48%" /></a>
-  <ul>
-    <li>Languages: Python, Java, C#</li> 
-    <li>Data Science/Machine Learning: NumPy, Pandas, Matplotlib, Scikit-Learn, Keras</li>
-    <li>Web Dev: ReactJs, TailwindCSS, Spring Boot, NextJs</li>
-    <li>Tools: Jupyter Notebooks, Git, GitHub, Linux, Figma</li>
-  </ul>
-</div>
+
+🛠 My Tech Stack:<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=afkdiann&layout=donut&langs_count=5&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=afkdiann&layout=donut&langs_count=5&theme=dracula)
+<ul>
+  <li>Languages: Python, Java, C#</li> 
+  <li>Data Science/Machine Learning: NumPy, Pandas, Matplotlib, Scikit-Learn, Keras</li>
+  <li>Web Dev: ReactJs, TailwindCSS, Spring Boot, NextJs</li>
+  <li>Tools: Jupyter Notebooks, Git, GitHub, Linux, Figma</li>
+</ul>
 
 <br>
 
-<div>
-  📊 GitHub Stats:<br>
-  <a href="https://github-stats-extended.vercel.app/api?username=afkdiann&rank_icon=github&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"><img src="https://github-stats-extended.vercel.app/api?username=afkdiann&rank_icon=github&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" width="48%" /></a>
-</div>
+📊 GitHub Stats:<br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=afkdiann&rank_icon=github&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=afkdiann&rank_icon=github&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)
 
 <br>
 
