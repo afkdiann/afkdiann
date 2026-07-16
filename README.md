@@ -1,39 +1,56 @@
-## Hi there, I'm Dian 👋
+# 👋 Hi, I'm Dian 
 
-<!--
-**dianchengt123/dianchengt123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25" />
+  Welcome to my GitHub profile!
+  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="25" />
+</p>
 
-Here are some ideas to get you started:
+![Banner](assets/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+<div>
+  🙋‍♂️ I'm a Computer Science major interested in Data Science, Machine Learning, and exploring how AI is shaping our world<br>
+  <ul>
+    <li>👯 In my free time, I enjoy playing basketball, reading classical literature, and listening to pop music</li>
+    <li>📚 I’m currently diving deeper into <b>neural networks</b>, <b>Scikit-Learn</b>, and <b>ReactJs</b></li>
+    <li>💬 Ask me anything about anime and manga! My favorite anime is Steins;Gate, just in case you were wondering :)</li>
+    <li>🚀 I’m also looking to join new projects and collaborate with fellow developers!</li>
+  </ul>
+</div>
 
-### About Me
-I'm a Computer Science major interested in Data Science, Machine Learning, and exploring how AI is shaping our world. I also have experience with web development, both front-end and back-end. Although my knowledge in the aforementioned areas of study is limited, I'm eager to learn more about them. Now, for the question every developer gets: "What's your favorite programming language?" I don't have a specific one, but I tend to use Java, Python, and JavaScript the most. If you're still reading my about me at this point, I want to thank you for being here and hope that you continue reading the bullet points below to learn more about me:
+<br>
 
-📚 I’m currently learning ...
-<ul>
-  <li>PyTorch</li>
-  <li>Spring Boot</li>
-  <li>React JS</li>
-</ul>
-🚀 I’m looking to join new projects and collaborate with fellow developers!
-<br />
-<br />
-👯 In my free time, I enjoy playing badminton, grinding Geometry Dash, and listening to music!
-<br />
-<br />
-💬 Ask me anything about anime and manga! My favorite series is Attack on Titan, just in case you were wondering :)
-<br />
-<br />
-📫 Feel free to contact me at: dianchengt123@gmail.com
-<br />
-<br />
-⚡ Fun fact: The first programming language I ever learned was Snap! (Yes, it's the block-based one) 
+</div>
+  🛠 My Tech Stack:<br>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=afkdiann&layout=donut&langs_count=5&theme=dracula&hide_border=true"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=afkdiann&layout=donut&langs_count=5&theme=dracula&hide_border=true" width="48%" /></a>
+  <ul>
+    <li>Languages: Python, Java, C#</li> 
+    <li>Data Science/Machine Learning: NumPy, Pandas, Matplotlib, Scikit-Learn, Keras</li>
+    <li>Web Dev: ReactJs, TailwindCSS, Spring Boot, NextJs</li>
+    <li>Tools: Jupyter Notebooks, Git, GitHub, Linux, Figma</li>
+  </ul>
+</div>
+
+<br>
+
+<div>
+  📊 GitHub Stats:<br>
+  <a href="https://github-stats-extended.vercel.app/api?username=afkdiann&rank_icon=github&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"><img src="https://github-stats-extended.vercel.app/api?username=afkdiann&rank_icon=github&custom_title=My%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" width="48%" /></a>
+</div>
+
+<br>
+
+<div>
+  📫 How to Reach Me:<br>
+  <ul>
+    <li>Email: dianchengt123@gmail.com<br></li>
+    <li>LinkedIn: <a href="https://www.linkedin.com/in/dianchengtang/">linkedin.com/in/dianchengtang/</a></li>
+  </ul>
+</div>
+
+<br>
+
+<div>
+  ✨ Fun Fact: The first programming language I ever learned was a block-based one called Snap! Without it, I don't think I would have ever discovered my passion for coding!
+</div>
